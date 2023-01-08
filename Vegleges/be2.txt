@@ -1,0 +1,24 @@
+2 1
+0 Tu8O
+0 10 3000 1500
+1 1 1 1 2 2 2 2 
+5
+Budapest
+Jeszberny
+Balaton
+Nagyvarad
+Marosvasarhely
+
+1 T7J9O
+3 7 4000 1500
+2 10 23 10 2 11 1 20 
+Budapest
+Nagyvarad
+
+T7J9O
+1
+1
+Budapest
+Nagyvarad
+4000
+

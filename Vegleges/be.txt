@@ -1,0 +1,41 @@
+3 2
+0 Tu8O
+0 10 3000 1500
+1 1 1 1 2 2 2 2 
+5
+Budapest
+Jaszberny
+Balaton
+Nagyvarad
+Marosvasarhely
+
+1 T7J9O
+0 7 4000 1500
+2 10 23 10 2 11 1 20 
+Budapest
+Nagyvarad
+
+0 C0HGI
+2 8 2000 3000
+2 12 22 10 2 13 10 15 
+5
+Jaszbereny
+Zala
+Targu Mures
+Budapest
+Debrecen
+
+C0HGI
+1
+1
+Jaszbereny
+Budapest
+30
+
+C0HGI
+3
+1
+Jaszbereny
+Budapest
+3000
+
